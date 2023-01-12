@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 💼 Right now I don't work, I hope to reach that goal soon.
-- 🌱 I’m currently learning Typescript and React
-- 💬 Ask me about books and movies
+- 💼 Right now I don't work in the development area, I hope to reach that goal soon.
+- 📖 I’m currently learning Typescript and React
+- 💬 Ask me about programming
 - 📫 How to reach me: rodrrigosanyy@gmail.com
 - ⚡ Fun fact: Before I started programming, I wanted to be an author.
 
