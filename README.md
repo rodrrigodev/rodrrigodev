@@ -45,13 +45,12 @@
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" />
   </a>
   
-  <a href="https://www.mysql.com/">
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" />
-  </a>
   
   <a href="https://nodejs.org/en/">
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50" />
   </a>
   
   </div>
-
+  
+   <img src="https://media.tenor.com/yY98PSJ_PlYAAAAi/coffee-cup-of-coffee.gif" width="50" height="50" />
+  
