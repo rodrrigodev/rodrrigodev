@@ -15,6 +15,11 @@
 * My favorite book is "One Day - David Nicholls" 📖♥️
 
 <br>
-<br>
-<br>
-<br>
+
+
+## Languages <img src="https://media.tenor.com/Pnb_hVWq2sgAAAAj/on-process-dig.gif" alt="" width="30" height="30"> Tools 
+
+  <div align="center">
+  <a href="https://www.w3schools.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="" width="50" height="50"/></a>
+  </div>
+
