@@ -20,6 +20,38 @@
 ## Languages <img src="https://media.tenor.com/Pnb_hVWq2sgAAAAj/on-process-dig.gif" alt="" width="30" height="30"> Tools 
 
   <div align="center">
-  <a href="https://www.w3schools.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="" width="50" height="50"/></a>
+  
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="" width="50" height="50"/>
+  </a>
+  
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="" width="50" height="50" />
+  </a>
+  
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" />
+  </a>
+  
+  <a href="https://www.typescriptlang.org/">
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50" />
+  </a>
+  
+  <a href="https://beta.reactjs.org/">
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" />
+  </a>
+  
+  <a href="https://www.mysql.com/">
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" />
+  </a>
+  
+  <a href="https://www.mysql.com/">
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" />
+  </a>
+  
+  <a href="https://nodejs.org/en/">
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50" />
+  </a>
+  
   </div>
 
