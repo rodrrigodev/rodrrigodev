@@ -52,5 +52,14 @@
   
   </div>
   
-   <img src="https://media.tenor.com/yY98PSJ_PlYAAAAi/coffee-cup-of-coffee.gif" width="50" height="50" />
+  <br>
+  
+  ## Shall we have a coffee?
+  
+ <div align="center">
+    <a href="mailto:rodrigosanyy@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+    <a href="https://www.linkedin.com/in/rodrigo-santos-dias-fullstack/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp
+   <img src="https://media.tenor.com/yY98PSJ_PlYAAAAi/coffee-cup-of-coffee.gif" width="70" height="70" />
+ </div>
+  
   
