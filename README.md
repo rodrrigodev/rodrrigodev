@@ -6,7 +6,7 @@
 
 * I'm a full stack web developer from São Paulo - Brazil 🧑‍💻
 
-* I'm studying react at Rocketseat 🚀
+* I'm studying Next.js
 
 * I love both sides of developing web front-end and back-end. ⚙️💻
 
