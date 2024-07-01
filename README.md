@@ -5,52 +5,16 @@
 ## About Me
 
 * I'm a full stack web developer from São Paulo - Brazil 🧑‍💻
+* Before diving into programming, I was studying English because I hadn't yet decided which career path to follow.
+* In my free time, I enjoy watching series and animations. Some of my favorites are: Invincible, Superstore, Modern Family, and Rick and Morty.
+* I am also a fan of mobile games, especially Clash of Clans and Squad Busters.
 
-* I'm studying Next.js
-
-* I love both sides of developing web front-end and back-end. ⚙️💻
-
-* Before web development I wanted to be a writer ✍
-
-* My favorite book is "One Day - David Nicholls" 📖♥️
 
 <br>
 
 
-## Languages <img src="https://media.tenor.com/Pnb_hVWq2sgAAAAj/on-process-dig.gif" alt="" width="30" height="30"> Tools 
-
-  <div align="center">
-  
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="" width="50" height="50"/>
-  </a>
-  
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="" width="50" height="50" />
-  </a>
-  
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" />
-  </a>
-  
-  <a href="https://www.typescriptlang.org/">
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50" />
-  </a>
-  
-  <a href="https://beta.reactjs.org/">
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" />
-  </a>
-  
-  <a href="https://www.mysql.com/">
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" />
-  </a>
-  
-  
-  <a href="https://nodejs.org/en/">
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50" />
-  </a>
-  
-  </div>
+## Languages <img src="https://media.tenor.com/Pnb_hVWq2sgAAAAj/on-process-dig.gif" alt="" width="30" height="30"> Tools
+<p>I have been seeking to improve myself through online courses, YouTube videos, and articles. So far, I have used: HTML, CSS, JavaScript, TypeScript, React.js, Next.js, Node.js, Tailwind, MySQL, and I am currently starting to use Docker.</p>
   
   <br>
   
