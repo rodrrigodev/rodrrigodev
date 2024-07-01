@@ -54,7 +54,7 @@
   
   <br>
   
-  ## Shall we have a coffee?
+  ## Shall we embark on this journey together?
   
  <div align="center">
     <a href="mailto:rodrigosanyy@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
