@@ -3,7 +3,6 @@
 * I'm a full stack web developer from São Paulo - Brazil 🧑‍💻
 * Before diving into programming, I was studying English because I hadn't yet decided which career path to follow.
 * In my free time, I enjoy watching series and animations. Some of my favorites are: Invincible, Superstore, Modern Family, and Rick and Morty.
-* I am also a fan of mobile games, especially Clash of Clans and Squad Busters.
 
 
 <br>
