@@ -1,35 +1,4 @@
-## About Me
 
-* I'm a full stack web developer from São Paulo - Brazil 🧑‍💻
-* Before diving into programming, I was studying English because I hadn't yet decided which career path to follow.
-* In my free time, I enjoy watching series and animations. Some of my favorites are: Invincible, Superstore, Modern Family, and Rick and Morty.
-
-
-<br>
-
-
-## Languages <img src="https://media.tenor.com/Pnb_hVWq2sgAAAAj/on-process-dig.gif" alt="" width="30" height="30"> Tools
-<p>I have been seeking to improve myself through online courses, YouTube videos, and articles. So far, I have used: HTML, CSS, JavaScript, TypeScript, React.js, Next.js, Node.js, Tailwind, MySQL, and I am currently starting to use Docker.</p>
-
-<div align="center">
-  
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-
-  
-  </div>
-  
-  <br>
-  
   ## Shall we embark on this journey together?
   
  <div align="center">
