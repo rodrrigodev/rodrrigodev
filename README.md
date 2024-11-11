@@ -63,12 +63,12 @@ I’m currently pursuing a degree in Systems Analysis and Development, working o
 ### ✉️ Shall we embark on this journey together?
 
 <div>
-  <a href="https://www.linkedin.com/in/rodrigo-s-d1as/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25" />
-  </a>
-
-  <a href="mailto:rodrigosanyy@gmail.com">
-    <img src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25" />
-  </a>
-  
+   
+   <a href="https://www.linkedin.com/in/rodrigo-s-d1as/">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25" /></a>
+   
+   <a href="mailto:rodrigosanyy@gmail.com">
+      <img src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25" />
+   </a>
 </div>
+   
